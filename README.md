@@ -22,10 +22,10 @@ TypeScript is included as a first-class programming language in Microsoft Visual
 Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, has worked on the development of TypeScript.
 
 <a name="references"></a>
-## 2. Official references websites. <br />
+## 2. Official references websites. 
 TypeScript official website : http://www.typescriptlang.org <br />
 
-**_TypeScript developers_**
+**_TypeScript developers_** <br />
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
 
 <a name="github"></a>
