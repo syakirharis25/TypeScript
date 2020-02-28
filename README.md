@@ -27,6 +27,7 @@ TypeScript official website : http://www.typescriptlang.org <br />
 
 **_TypeScript developers_** <br />
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
+Basarat Ali Syed : https://github.com/basarat <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
