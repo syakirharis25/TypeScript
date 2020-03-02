@@ -4,8 +4,9 @@ My works related to TypeScript language.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [TypeScript developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -26,10 +27,11 @@ Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, h
 TypeScript official website : http://www.typescriptlang.org <br />
 TypeScript official documentation : http://www.typescriptlang.org/docs/home.html <br />
 
-**_TypeScript documentation by typescriptlang.org_**
+**_TypeScript documentation by typescriptlang.org_** <br />
 Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html
 
-**_TypeScript developers_** <br />
+<a name="developers"></a>
+## 3. TypeScript developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
 Basarat Ali Syed : https://github.com/basarat <br />
 
