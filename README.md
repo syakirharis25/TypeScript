@@ -37,6 +37,7 @@ Airbnb, Inc. : https://www.airbnb.com <br />
 **_TypeScript documentation by typescriptlang.org_** <br />
 Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html <br />
 tsconfig.json by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/tsconfig-json.html <br />
+Type Inference by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/type-inference.html <br />
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
