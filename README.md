@@ -35,6 +35,9 @@ DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
 types-starter : https://github.com/brieb/types-starter <br />
 PropsType.ts : https://gist.github.com/brieb/48698aca8565310db4453b9ff875dee3 <br />
 
+**_TypeScript related articles_** <br /
+ReasonML vs TypeScript: comparing their type systems : https://www.freecodecamp.org/news/reasonml-typescript-comparing-their-type-systems-620e4343221c/ <br />
+
 <a name="developers"></a>
 ## 3. TypeScript developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
