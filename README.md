@@ -33,12 +33,13 @@ Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/hand
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
 types-starter : https://github.com/brieb/types-starter <br />
+PropsType.ts : https://gist.github.com/brieb/48698aca8565310db4453b9ff875dee3 <br />
 
 <a name="developers"></a>
 ## 3. TypeScript developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
 Basarat Ali Syed : https://github.com/basarat <br />
-Brie Bunge : https://twitter.com/briebunge <br />
+Brie Bunge : https://github.com/brieb, https://twitter.com/briebunge <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
