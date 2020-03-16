@@ -27,6 +27,10 @@ Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, h
 TypeScript official website : http://www.typescriptlang.org <br />
 TypeScript official documentation : http://www.typescriptlang.org/docs/home.html <br />
 
+**_TypeScript related companies_** <br />
+Microsoft : https://www.microsoft.com <br />
+Airbnb, Inc. : https://www.airbnb.com <br />
+
 **_TypeScript documentation by typescriptlang.org_** <br />
 Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html
 
