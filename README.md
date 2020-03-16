@@ -32,6 +32,7 @@ Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/hand
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
+types-starter : https://github.com/brieb/types-starter <br />
 
 <a name="developers"></a>
 ## 3. TypeScript developers.
