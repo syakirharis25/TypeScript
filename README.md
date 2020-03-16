@@ -30,6 +30,9 @@ TypeScript official documentation : http://www.typescriptlang.org/docs/home.html
 **_TypeScript documentation by typescriptlang.org_** <br />
 Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html
 
+**_TypeScript related projects_** <br />
+DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
+
 <a name="developers"></a>
 ## 3. TypeScript developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
