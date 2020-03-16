@@ -34,6 +34,7 @@ Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/hand
 ## 3. TypeScript developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
 Basarat Ali Syed : https://github.com/basarat <br />
+Brie Bunge : https://twitter.com/briebunge <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
