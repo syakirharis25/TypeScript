@@ -50,6 +50,7 @@ https://code.visualstudio.com/docs/typescript/typescript-compiling <br />
 **_TypeScript questions and answers by Stack Overflow_** <br />
 Why does the tsc command not show compiling errors when used to compile a specific file? by Stack Overflow : https://stackoverflow.com/questions/52645072/why-does-the-tsc-command-not-show-compiling-errors-when-used-to-compile-a-specif <br />
 Compiling TypeScript by code.visualstudio.com : https://code.visualstudio.com/docs/typescript/typescript-compiling <br />
+Type-Safe Error Handling In TypeScript by Gio : https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n <br />
 
 <a name="developers"></a>
 ## 3. TypeScript developers.
