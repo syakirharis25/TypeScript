@@ -27,12 +27,16 @@ Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, h
 TypeScript official website : http://www.typescriptlang.org <br />
 TypeScript official documentation : http://www.typescriptlang.org/docs/home.html <br />
 
+**_TypeScript questions and answers_** <br >
+Stack Overflow : https://stackoverflow.com <br />
+
 **_TypeScript related companies_** <br />
 Microsoft : https://www.microsoft.com <br />
 Airbnb, Inc. : https://www.airbnb.com <br />
 
 **_TypeScript documentation by typescriptlang.org_** <br />
-Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html
+Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html <br />
+tsconfig.json by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/tsconfig-json.html <br />
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
@@ -41,6 +45,9 @@ PropsType.ts : https://gist.github.com/brieb/48698aca8565310db4453b9ff875dee3 <b
 
 **_TypeScript related articles_** <br />
 ReasonML vs TypeScript: comparing their type systems : https://www.freecodecamp.org/news/reasonml-typescript-comparing-their-type-systems-620e4343221c/ <br />
+
+**_TypeScript questions and answers by Stack Overflow_** <br />
+Why does the tsc command not show compiling errors when used to compile a specific file? by Stack Overflow : https://stackoverflow.com/questions/52645072/why-does-the-tsc-command-not-show-compiling-errors-when-used-to-compile-a-specif <br />
 
 <a name="developers"></a>
 ## 3. TypeScript developers.
