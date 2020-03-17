@@ -38,6 +38,7 @@ Airbnb, Inc. : https://www.airbnb.com <br />
 Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/compiler-options.html <br />
 tsconfig.json by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/tsconfig-json.html <br />
 Type Inference by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/type-inference.html <br />
+Basic Types by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/basic-types.html <br />
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
@@ -47,6 +48,7 @@ PropsType.ts : https://gist.github.com/brieb/48698aca8565310db4453b9ff875dee3 <b
 **_TypeScript related articles_** <br />
 ReasonML vs TypeScript: comparing their type systems : https://www.freecodecamp.org/news/reasonml-typescript-comparing-their-type-systems-620e4343221c/ <br />
 https://code.visualstudio.com/docs/typescript/typescript-compiling <br />
+What is a Favicon? by Webweaver : http://www.webweaver.nu/html-tips/favicon.shtml <br />
 
 **_TypeScript questions and answers by Stack Overflow_** <br />
 Why does the tsc command not show compiling errors when used to compile a specific file? by Stack Overflow : https://stackoverflow.com/questions/52645072/why-does-the-tsc-command-not-show-compiling-errors-when-used-to-compile-a-specif <br />
