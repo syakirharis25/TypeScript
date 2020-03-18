@@ -40,6 +40,7 @@ tsconfig.json by typescriptlang.org : http://www.typescriptlang.org/docs/handboo
 Type Inference by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/type-inference.html <br />
 Basic Types by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/basic-types.html <br />
 Functions by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/functions.html <br />
+Variable Declarations by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/variable-declarations.html <br />
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
