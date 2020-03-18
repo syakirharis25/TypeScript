@@ -39,6 +39,7 @@ Compiler Options by typescriptlang.org : http://www.typescriptlang.org/docs/hand
 tsconfig.json by typescriptlang.org : http://www.typescriptlang.org/docs/handbook/tsconfig-json.html <br />
 Type Inference by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/type-inference.html <br />
 Basic Types by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/basic-types.html <br />
+Functions by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/functions.html <br />
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
