@@ -41,6 +41,7 @@ Type Inference by typescriptlang.org : https://www.typescriptlang.org/docs/handb
 Basic Types by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/basic-types.html <br />
 Functions by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/functions.html <br />
 Variable Declarations by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/variable-declarations.html <br />
+Interfaces by typescriptlang.org : https://www.typescriptlang.org/docs/handbook/interfaces.html <br />
 
 **_TypeScript related projects_** <br />
 DefinitelyTyped : https://github.com/DefinitelyTyped/DefinitelyTyped <br />
